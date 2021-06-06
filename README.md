@@ -2,7 +2,7 @@
 
 
 # IPLVisualization
-## Visualization of INdia Premier League Interactively
+## Visualization of Indian Premier League Interactively
 
 Run this app now by clicking [here](https://share.streamlit.io/sanketnagrale/iplvisualization/main.py)
 
