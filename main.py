@@ -46,7 +46,7 @@ else:
 
     analysis = st.sidebar.radio(
         "Select the Category", ("Home", "General", "Batsmen", "Bowlers",
-                                "Head to Head Records", "Toss"), 0
+                                "Head to Head Records", "Toss"), 4
     )
 
     # Home Page
